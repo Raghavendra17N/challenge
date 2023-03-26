@@ -1,7 +1,0 @@
-fastapi
-google-api-python-client
-oauth2client
-google.cloud
-google-cloud-compute
-uvicorn
-

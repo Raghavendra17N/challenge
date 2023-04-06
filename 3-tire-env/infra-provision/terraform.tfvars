@@ -82,7 +82,7 @@ vm_config = [{
       network            = "global-vpc"
       network_ip         = null
       nic_type           = null
-      subnetwork         = "subnet-app"
+      subnetwork         = "subnet-db"
       subnetwork_project = "charged-muse-376504"
     }]
 }, ]
